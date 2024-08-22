@@ -1,3 +1,4 @@
+> Modified _slightly_ for Alana
 # neural-amp-modeler-lv2
 
 Bare-bones implementation of [Neural Amp Modeler](https://github.com/sdatkinson/neural-amp-modeler) (NAM) models in an LV2 plugin.
